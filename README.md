@@ -28,4 +28,31 @@ This is a simple client-side **React-based URL Shortener** application built as 
 - [Material UI](https://mui.com/)
 
 ## 📂 Project Structure
+url-shortener/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── URLShortener.jsx
+│ │ └── URLStats.jsx
+│ ├── App.js
+│ ├── App.css
+│ └── index.js
+├── package.json
+└── README.md
+
+## 🛠️ How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/divya-150/22501a1268.git
+
+# Navigate into the project
+cd 22501a1268/url-shortener
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+
 
