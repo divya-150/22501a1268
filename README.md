@@ -27,19 +27,6 @@ This is a simple client-side **React-based URL Shortener** application built as 
 - [React Router](https://reactrouter.com/)
 - [Material UI](https://mui.com/)
 
-## 📂 Project Structure
-url-shortener/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── URLShortener.jsx
-│ │ └── URLStats.jsx
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── package.json
-└── README.md
-
 ## 🛠️ How to Run Locally
 
 ```bash
